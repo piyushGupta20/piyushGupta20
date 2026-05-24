@@ -13,7 +13,7 @@ Software Engineer with 2+ years of experience building and operating production 
 - Containerized services using Docker and Docker Compose for consistent environments.
 - Worked on cloud-deployed services using AWS EC2 and Nginx.
 
-🔗 **Portfolio:** https://peeushgupta-dev.vercel.app
+🔗 **Portfolio:** https://peeushgupta.in
 
 
 ### 💻 Tech Stack:
